@@ -10,7 +10,6 @@ Online Book Store Using Spring Boot With H2 and MySQL Database (Thymleaf)
 
 
 ## Technology Used
-- Thymleaf Template
 - CRUD Features
 - Manage View and Data Depends Upon Different User 
 - Running on Two Database (MySQL & H2 Database)
@@ -29,9 +28,7 @@ git clone https://github.com/SLoharkar/Online-Book-Store.git
 
 ## Website Trailer
 
-
-https://github.com/SLoharkar/Online-Book-Store/assets/68845746/6cfab389-498e-42ad-82d2-2c26738284f8
-
+https://drive.google.com/file/d/1KKeMr01KgjkpdkOe42GaXrjmgLlX87gP/view?usp=sharing
 
 
 ## Website Highlights
